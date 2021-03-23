@@ -1,0 +1,4 @@
+[submodule "data_source"]
+	path = data_source
+	url = git@github.com:divinewrath/jamstack_data_source.git
+	branch = master
